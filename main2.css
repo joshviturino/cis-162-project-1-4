@@ -1,0 +1,77 @@
+/* html*/
+html {
+  
+  font-style: italic ;
+  font-size: 20px;
+  background-color: navy;
+}
+
+
+/* h1/h6 */
+h1 {
+  font-size: 250%;
+  color:navajowhite;
+  text-align: center;
+
+}
+
+  
+
+body {
+  color:navajowhite;
+  
+}
+img {
+  min-width: 640px;
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  display:block;
+   width: 35%;
+}
+
+nav ul {
+
+  list-style-type: none;
+  border: 5px 25px;
+  margin:0;
+  padding:0;
+}
+
+ 
+.topnav {
+
+  list-style-type: none;
+  border: 5px 25px;
+  margin: 50px;
+  padding:8px 16px;
+  overflow:hidden;
+  background-color: navajowhite;
+  
+}
+.topnav a {
+  
+  background-color: lightsteelblue;
+  float:left;
+  display:inline;
+  color:navy;
+  text-align: center;
+  border: 5px solid navy;
+  padding: 20px;
+  margin: 10px;
+  
+  
+}
+.topnave a :hover{
+  
+  background-color:black;
+  color:navajowhite;
+}
+.column {
+  color:navajowhite;
+  float: left;
+  width:45%;
+  padding:25px
+}
+
+
