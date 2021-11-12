@@ -33,9 +33,23 @@ img {
 nav ul {
 
   list-style-type: none;
+  
   border: 5px 25px;
   margin:0;
   padding:0;
+}
+li {
+  
+ 
+  list-style-type: none;
+}
+nav li a {
+  width:385px;
+  
+  
+}
+li a:hover {
+  background-color: palegreen;
 }
 
  
@@ -73,5 +87,11 @@ nav ul {
   width:45%;
   padding:25px
 }
-
+footer {
+  list-style-type: none;
+  
+  border: 5px 25px;
+  margin:90px;
+  padding:10px;
+}
 
